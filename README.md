@@ -1,4 +1,4 @@
-Hello my name is Omar. I am a Computer Science and Software Engineering Student.\n
+Greetings! I'm Omar, I'm a software developer\n
 This is my Github repository.\n
 Feel free to contact me.\n
 Cheers!
