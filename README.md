@@ -1,4 +1,4 @@
-Greetings! I'm Omar, I'm a software developer\n
+Greetings! I'm Omar, a software developer\n
 This is my Github repository.\n
 Feel free to contact me.\n
 Cheers!
